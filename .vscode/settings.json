@@ -1,6 +1,12 @@
 {
+<<<<<<< HEAD
     "editor.defaultFormatter": "dbaeumer.vscode-eslint",
     "editor.formatOnSave": true,
     "editor.formatOnPaste": true,
     "livePreview.defaultPreviewPath": "/index.html"
+=======
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "livePreview.defaultPreviewPath": "/intex.html"
+>>>>>>> 80365b39f30313672c1692a7ffd113758bf6eb53
 }
